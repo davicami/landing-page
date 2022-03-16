@@ -27,7 +27,6 @@ body {
     font-size:24px;
     color: #F9FAF8;
     background-color: #1F2937;
-    color: white;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -49,7 +48,6 @@ ul {
 
 .hero{
     background-color: #1F2937;
-    color: white;
     display: flex;
     justify-content: space-between;
     align-items: top;
@@ -159,4 +157,12 @@ ul {
     border: 2px solid #F9FAF8;
     color: #F9FAF8;
     padding: 3px 20px;
+}
+
+.footer{
+    background-color: #1F2937;
+    padding: 20px 200px;
+    font-size: 18px;
+    color: #E5E7EB;
+    text-align: center;
 }
