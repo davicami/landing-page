@@ -71,6 +71,14 @@ ul {
     padding: 3px 20px;
 }
 
+.image-placeholder{
+    background-color: gray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 215px;
+    width: 450px;
+}
 
 .information{
     display: flex;
@@ -151,6 +159,7 @@ ul {
 }
 
 .call-to-action-button{
+    font-size: 18px;
     border-radius: 7px;
     background-color: #3882F6;
     font-weight: 500;
